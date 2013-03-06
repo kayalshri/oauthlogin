@@ -18,7 +18,7 @@
 		dirname(strtok($_SERVER['REQUEST_URI'],'?')).'/github.php';
 
 	$client->client_id = '72ba7b34f12d6aaefda9'; $application_line = __LINE__;
-	$client->client_secret = 'fdd5630130c5443daf19a3c1f5790ae7bb19a23d';
+	$client->client_secret = 'xxxxxxxxxxxxxxxxxxxx';
 
 	
 	if(strlen($client->client_id) == 0
