@@ -21,3 +21,6 @@ http://ngiriraj.com/socialMedia/msn.php
 http://ngiriraj.com/socialMedia/github.php
 http://ngiriraj.com/socialMedia/scoopit.php
 http://ngiriraj.com/socialMedia/tumblr.php
+http://ngiriraj.com/socialMedia/fitbit.php
+http://ngiriraj.com/socialMedia/foursquare.php
+http://ngiriraj.com/socialMedia/dropbox.php
