@@ -1,6 +1,3 @@
-Source Reference :
-@(#) $Id: oauth_client.php,v 1.46 2013/01/10 10:11:33 mlemos Exp $
-
 @ step-by-step oauth implementation guide
 =========================================
 http://ngiriraj.com/work/facebook-connect-by-using-oauth-in-php/
@@ -24,3 +21,8 @@ http://ngiriraj.com/socialMedia/tumblr.php
 http://ngiriraj.com/socialMedia/fitbit.php
 http://ngiriraj.com/socialMedia/foursquare.php
 http://ngiriraj.com/socialMedia/dropbox.php
+
+
+Download lib/http.php and lib/oauth_client.php from below link:
+==============================================================
+http://www.phpclasses.org/package/7700-PHP-Authorize-and-access-APIs-using-OAuth.html
